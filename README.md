@@ -11,4 +11,4 @@
 ```
 
 ## วิธีลบ Cache
-ลบ cache ผ่าน [Purge jsDelivr CDN cache](https://jsdelivr.com/tools/purge)https://jsdelivr.com/tools/purge)
+ลบ cache ผ่าน [Purge jsDelivr CDN cache](https://jsdelivr.com/tools/purge)
